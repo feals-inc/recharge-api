@@ -257,7 +257,8 @@ class2 "Recharge", JSON.parse(<<-END) do
     "zip":"90025",
     "company":"bootstrap",
     "phone":"3103103101",
-    "country":"United States"
+    "country":"United States",
+    "discounts": []
   },
   "discount":{
     "id": 3748296,
